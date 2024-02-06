@@ -8,7 +8,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/resume-builder-website.git
+git clone https://github.com/rajdhanwar-suraj/resume-builder.git
 Navigate to the project directory:
 
 bash
